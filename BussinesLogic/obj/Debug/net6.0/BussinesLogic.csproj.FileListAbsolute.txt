@@ -1,0 +1,15 @@
+C:\Users\Mario\source\repos\KvalifikacijskiZadatak\BussinesLogic\bin\Debug\net6.0\BussinesLogic.deps.json
+C:\Users\Mario\source\repos\KvalifikacijskiZadatak\BussinesLogic\bin\Debug\net6.0\BussinesLogic.dll
+C:\Users\Mario\source\repos\KvalifikacijskiZadatak\BussinesLogic\bin\Debug\net6.0\BussinesLogic.pdb
+C:\Users\Mario\source\repos\KvalifikacijskiZadatak\BussinesLogic\bin\Debug\net6.0\Data.dll
+C:\Users\Mario\source\repos\KvalifikacijskiZadatak\BussinesLogic\bin\Debug\net6.0\Data.pdb
+C:\Users\Mario\source\repos\KvalifikacijskiZadatak\BussinesLogic\obj\Debug\net6.0\BussinesLogic.csproj.AssemblyReference.cache
+C:\Users\Mario\source\repos\KvalifikacijskiZadatak\BussinesLogic\obj\Debug\net6.0\BussinesLogic.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mario\source\repos\KvalifikacijskiZadatak\BussinesLogic\obj\Debug\net6.0\BussinesLogic.AssemblyInfoInputs.cache
+C:\Users\Mario\source\repos\KvalifikacijskiZadatak\BussinesLogic\obj\Debug\net6.0\BussinesLogic.AssemblyInfo.cs
+C:\Users\Mario\source\repos\KvalifikacijskiZadatak\BussinesLogic\obj\Debug\net6.0\BussinesLogic.csproj.CoreCompileInputs.cache
+C:\Users\Mario\source\repos\KvalifikacijskiZadatak\BussinesLogic\obj\Debug\net6.0\BussinesLogic.csproj.CopyComplete
+C:\Users\Mario\source\repos\KvalifikacijskiZadatak\BussinesLogic\obj\Debug\net6.0\BussinesLogic.dll
+C:\Users\Mario\source\repos\KvalifikacijskiZadatak\BussinesLogic\obj\Debug\net6.0\refint\BussinesLogic.dll
+C:\Users\Mario\source\repos\KvalifikacijskiZadatak\BussinesLogic\obj\Debug\net6.0\BussinesLogic.pdb
+C:\Users\Mario\source\repos\KvalifikacijskiZadatak\BussinesLogic\obj\Debug\net6.0\ref\BussinesLogic.dll

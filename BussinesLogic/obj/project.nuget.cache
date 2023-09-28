@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "FBZ905xK9UhiiVzDhYa3eBkEd9iEYe2nflyo7B/9MGQLimpZ3W2+qlB7ePA6SC2uJh4bzD6UlMaGqD+MFrDpeg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Mario\\source\\repos\\KvalifikacijskiZadatak\\BussinesLogic\\BussinesLogic.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Mario\\.nuget\\packages\\dapper\\2.0.151\\dapper.2.0.151.nupkg.sha512",
+    "C:\\Users\\Mario\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\6.0.0\\microsoft.extensions.configuration.abstractions.6.0.0.nupkg.sha512",
+    "C:\\Users\\Mario\\.nuget\\packages\\microsoft.extensions.primitives\\6.0.0\\microsoft.extensions.primitives.6.0.0.nupkg.sha512",
+    "C:\\Users\\Mario\\.nuget\\packages\\npgsql\\6.0.10\\npgsql.6.0.10.nupkg.sha512",
+    "C:\\Users\\Mario\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "vzRMc4KysPThxYAOibTJf6czLn2xy6c1+LLhn+oGnxsrigNfJz6elXqJ3yGtxJAvklaIMQaJwFdumccGNqTq1Q==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Mario\\source\\repos\\KvalifikacijskiZadatak\\Data\\Data.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Mario\\.nuget\\packages\\dapper\\2.0.151\\dapper.2.0.151.nupkg.sha512",
+    "C:\\Users\\Mario\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\6.0.0\\microsoft.extensions.configuration.abstractions.6.0.0.nupkg.sha512",
+    "C:\\Users\\Mario\\.nuget\\packages\\microsoft.extensions.primitives\\6.0.0\\microsoft.extensions.primitives.6.0.0.nupkg.sha512",
+    "C:\\Users\\Mario\\.nuget\\packages\\npgsql\\6.0.10\\npgsql.6.0.10.nupkg.sha512",
+    "C:\\Users\\Mario\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
